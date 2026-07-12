@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @RobelKYemane
-- 👀 I’m interested in bringing ideas to life
-- 🌱 I’m currently learning golang, and resharping my c#
-- 💞️ I’m looking to collaborate on anything that makes the world a better place
-- 📫 Reach me on ry@eritech.co.uk.
+Head of Engineering & Delivery @ Privilee
+UAE, Qatar, Bahrain, Oman, Singapore & Hong Kong
+
+One question driving everything: what does great engineering look like when agents do the work?
+
+Currently
+→ SDLC → ADLC (Agentic Development Lifecycle)
+→ Human-in-the-loop architecture
+→ Contact centre transformation
+
+INSEAD GEMBA '24 · Dubai · ry@eritech.co.uk
 
 <!---
 RobelKYemane/RobelKYemane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
